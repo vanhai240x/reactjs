@@ -9,7 +9,21 @@
 /coverage
 
 # production
-/build
+/public
+/package-lock.json
+/package.json
+/src/components/home
+/src/components/layout
+/src/components/constants
+/src/components/json
+/src/components/reducers
+/src/components/routes
+/src/App.css
+/src/App.js
+/src/App.test.css
+/src/Index.css
+/src/Index.js
+/src/serviceWorker.js
 
 # misc
 .DS_Store
@@ -21,7 +35,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# custumize
-/package-lock.json
-/package.json
